@@ -1,4 +1,4 @@
-# GenreIdentificationServer
+# GenreFinder
 
 ## This project made for my thesis in Java course
 
